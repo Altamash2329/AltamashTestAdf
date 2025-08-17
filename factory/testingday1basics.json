@@ -1,0 +1,9 @@
+{
+	"name": "testingday1basics",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "504b9298-4f20-4058-b7d8-bc11d666b7e7",
+		"tenantId": "7198105d-3572-4794-9b36-e926abbe0a99"
+	}
+}
